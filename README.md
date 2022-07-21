@@ -30,8 +30,19 @@ Para inciar o servidor após instalar, acessar pelo terminal o diretório que fo
 yarn dev
 ```
 
-### Endereço sistema
+### Página Incial (Home)
 
-`http:\\127.0.0.1:3000\` => Página Inicial
+```sh
+http:\\127.0.0.1:3000\
+```
 
-`http:\\127.0.0.1:3000\cadastros\` => Página dos cadastros
+![Home](https://raw.githubusercontent.com/davidaugusto89/dg-frontend/main/prints/Home.png)
+
+
+### Página Cadastros
+
+```sh
+http:\\127.0.0.1:3000\cadastros\
+```
+
+![Cadastros](https://raw.githubusercontent.com/davidaugusto89/dg-frontend/main/prints/Cadastros.png)
