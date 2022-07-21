@@ -33,7 +33,7 @@ yarn dev
 ### Página Incial (Home)
 
 ```sh
-http:\\127.0.0.1:3000\
+http://127.0.0.1:3000/
 ```
 
 ![Home](https://raw.githubusercontent.com/davidaugusto89/dg-frontend/main/prints/Home.png)
@@ -42,7 +42,7 @@ http:\\127.0.0.1:3000\
 ### Página Cadastros
 
 ```sh
-http:\\127.0.0.1:3000\cadastros\
+http://127.0.0.1:3000/cadastros/
 ```
 
 ![Cadastros](https://raw.githubusercontent.com/davidaugusto89/dg-frontend/main/prints/Cadastros.png)
