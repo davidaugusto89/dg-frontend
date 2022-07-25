@@ -18,7 +18,7 @@ Frontend para cadastro simples (Nome e Data Nascimento) consumindo API RESTFul, 
 Para instalar a aplicação deve ser executados os seguintes comandos no terminal.
 
 ```sh
-git clone -b main git@github.com:davidaugusto89/dg-frontend.git dg-frontend
+git clone -b main https://github.com/davidaugusto89/dg-frontend.git
 cd dg-frontend
 yarn install
 ```
